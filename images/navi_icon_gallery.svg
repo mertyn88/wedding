@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="navi_icon_gallery" class="cls-1" d="M3.47,5.82l8.861-2.374,2.976,11.108L6.446,16.928Zm7.968-.626,1.755,6.549L6.97,13.411,5.214,6.857Zm1.108,10.868,3.708,0.186L16.919,4.768l-3.158-.183L14.077,6.1,15.47,6.2,15.226,10.75l1.086,4.424Z"/>
+</svg>
